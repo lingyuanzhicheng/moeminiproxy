@@ -1,5 +1,5 @@
 # moeminiproxy
-一个基于miniproxy的新样式php在线网页反代程序
+一个php的在线网页反代程序
 # 环境要求
 PHP5.6+（推荐5.6版本）<br>
 需要支持php的curl与mbstring扩展
